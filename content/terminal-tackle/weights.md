@@ -6,7 +6,7 @@ date: 2026-10-2
 
 ### Why So Heavy?
 
-Weights and the amount of weight on your [line](fishing-line.index.md) plays a major factor in determining casting distance, sinking speed, and action in the water. There are many different weight types that each serve their own purposes. Without weights, we would need to constantly throw heavy [lures](artificial-baits.md) and [baits](organic-baits.md).
+Weights and the amount of weight on your [line](fishing-line/index.md) plays a major factor in determining casting distance, sinking speed, and action in the water. There are many different weight types that each serve their own purposes. Without weights, we would need to constantly throw heavy [lures](artificial-baits.md) and [baits](organic-baits.md).
 
 ### Types of Weights
 
