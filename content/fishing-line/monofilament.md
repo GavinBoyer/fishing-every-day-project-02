@@ -13,8 +13,8 @@ Monofilament is the traditional and most popular fishing line. The word "monofil
 - It has fairly low memory. 
 - It is recyclable meaning that you can safely dispose of it in recycling bins to be melted back down into new line.
 **Cons**
-- Mono has quite a bit of stretch which means that is has high shock strength but minimal precision compared to other line types like [[braid.md]].
-- It is also very buoyant which makes using bottom baits very difficult and requires a lot of extra [[../terminal-tackle/weights.md]].
+- Mono has quite a bit of stretch which means that is has high shock strength but minimal precision compared to other line types like [braid](braid.md).
+- It is also very buoyant which makes using bottom baits very difficult and requires a lot of extra [weights](weights.md).
 
 >The main selling points of monofilament are that it’s cheap and easy to use. It casts smoothly and holds knots better than most lines. Mono also has relatively low memory and is easy to pick out if it backlashes or “bird’s nests.” If you do have to cut it out, it’s recyclable, which is always a bonus. Albert. (2026, April 7). _Different types of fishing line explained for 2026_. FishingBooker Blog. https://fishingbooker.com/blog/different-types-of-fishing-line-explained/
 

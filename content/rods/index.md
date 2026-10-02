@@ -1,20 +1,21 @@
 ---
-title: Category 02
+title: Rods
+date: 2026-10-2
 ---
-## The Category 02 category index page
+## Types of Rods
+---
+[[baitcasting-rods]]
+[[spincast-rods]]
+[[fly-rods]]
+[[spinning-rods]]
+[[surf-rods]]
 
-### What is this page?
+There are many different types of rods that anglers use depending on the situation. Often times, anglers will carry multiple different types of rods in order to target different species with specific gear. While having separate rods of varying types certainly eases the fishing process, they are not required to be a successful fisherman.
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-02` folder, which is located within the `content/` folder. 
+In this section, we will cover all the different rod types and their uses. To start, here is the main species that each rod type targets. [[spinning-rods]] are typically used for smaller fish, but [[surf-rods]] often use [[spinning-reels]] or [[conventional-reels]].
 
-On your local computer, this page corresponds to the file path: `content/example-category-02/index.md`.
+All of these rods can be used in several instances, but they are often used in specific circumstances. Spinning rods are often used in finesse situations, baitcastings rods are bass angler's favorite choice, spincast is excellent for beginners, and catfish and surf anglers tend to use a variety of them.
 
-### Naming a category page's index
+![Different types of fishing rods](https://i.pinimg.com/736x/27/5d/5a/275d5a4c2cc4db0c81da1efbcf6854bb.jpg)
 
-Why is this page's file name `index` (`example-category-02/index.md`) instead of **Category 02**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 02`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-01/index | Category 01]], which also uses the `index.md` method to specify a category page title and descriptive text.
+[[references]]
