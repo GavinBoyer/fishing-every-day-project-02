@@ -27,7 +27,7 @@ Braid takes everything you know about fishing line and throws it out the window.
 
 #### When to Use Braid
 
-Braid excels in low-visibility water conditions. It is also great for when you need more line than capable with that of [fluoro](fluorocarbon.md) or [[monofilament.md|mono]]. Often used for dropping line deep and jigging, you can also work it through thick weeds and vegetation. Typically, braid is used on [[../reels/spinning-reels.md]], but is compatible with all types of decent quality [[../reels/index.md|reels]].
+Braid excels in low-visibility water conditions. It is also great for when you need more line than capable with that of [fluoro](fluorocarbon.md) or [[monofilament.md|mono]]. Often used for dropping line deep and jigging, you can also work it through thick weeds and vegetation. Typically, braid is used on [spinning reels](spinning-reels.md), but is compatible with all types of decent quality [[../reels/index.md|reels]].
 
 ![Close up of braided fishing line](https://img.tacklewarehouse.com/watermark/rsg.php?path=/content_images/how-to/how-to-choose-line-for-bass-fishing/How_to_Choose_Line_Braid_Detail_1200x900.jpg&nw=780)
 

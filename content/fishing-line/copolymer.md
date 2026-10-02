@@ -5,12 +5,12 @@ date: 2026-10-2
 # Copolymer
 ### What is Copolymer?
 
-Copolymer is the big brother to [[monofilament.md]]. It is made in exactly the same way but uses two or more materials (different forms of nylon) instead of the one strand. The prefix "co" means together, and the root "polymer" means large molecules that are multiple of simpler units. This allows line to be made to specific uses.
+Copolymer is the big brother to [[monofilament]]. It is made in exactly the same way but uses two or more materials (different forms of nylon) instead of the one strand. The prefix "co" means together, and the root "polymer" means large molecules that are multiple of simpler units. This allows line to be made to specific uses.
 
 #### Pros and Cons of Copolymer
 
 **Pros**
-- Lower stretch than [[monofilament.md]] but it maintains the strength.
+- Lower stretch than [[monofilament]] but it maintains the strength.
 - Easy and efficient to tie knots, and cast.
 - Has an even less memory than mono.
 - More abrasion resistant than [[braid.md|braid]] and still shockingly strong for its size.
