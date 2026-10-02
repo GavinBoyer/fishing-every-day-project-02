@@ -1,8 +1,4 @@
 ---
-title: A third example doc inside a folder
+title: Terminal Tackle
+date: 2026-10-2
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
-
----
-
-Return to the [[index]]
