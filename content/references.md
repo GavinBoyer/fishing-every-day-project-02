@@ -4,28 +4,28 @@ date: 2026-10-2
 ---
 # References
 
-Losee, C. (2026, September 1). _Fly Lines 101: Types, Tapers & How to choose (Beginner’s guide)_. The Fly Fishing Basics. https://theflyfishingbasics.com/fly-lines-101/#google_vignette
+Losee, C. (2026, September 1). _Fly Lines 101: Types, Tapers & How to choose (Beginner’s guide)_. The Fly Fishing Basics. https://theflyfishingbasics.com/fly-lines-101/#google_vignette [[fly-lines]]
 
-Nadim, D. (2026, September 28). _Fishing reel types explained: Spinning, Baitcaster, Spincast & More!_. CAST and SPEAR. https://castandspear.com/types-of-fishing-reels/
+Nadim, D. (2026, September 28). _Fishing reel types explained: Spinning, Baitcaster, Spincast & More!_. CAST and SPEAR. https://castandspear.com/types-of-fishing-reels/ [[reels/index.md]]
 
-_The 10 types of fishing lures (and how to use them all)_. Tackle Village. (2024, April 17). https://tacklevillage.com/types-of-fishing-lures/#jigs
+_The 10 types of fishing lures (and how to use them all)_. Tackle Village. (2024, April 17). https://tacklevillage.com/types-of-fishing-lures/#jigs [[artificial-baits]]
 
-Zubair, M. (2025, April 1). What is a spinning rod? A comprehensive beginner’s guide. spinningpole.com. https://spinningpole.com/what-is-a-spinning-rod/ 
+Zubair, M. (2025, April 1). What is a spinning rod? A comprehensive beginner’s guide. spinningpole.com. https://spinningpole.com/what-is-a-spinning-rod/ [[spinning-rods]]
 
-What is a spincast rod and why you need One. Battlbox.com. (n.d.-c). https://www.battlbox.com/blogs/fishing/what-is-a-spincast-rod-a-comprehensive-guide-for-fishing-enthusiasts 
+What is a spincast rod and why you need One. Battlbox.com. (n.d.-c). https://www.battlbox.com/blogs/fishing/what-is-a-spincast-rod-a-comprehensive-guide-for-fishing-enthusiasts [[spincast-rods]]
 
-What is a fly rod. Battlbox.com. (n.d.-b). https://www.battlbox.com/blogs/fishing/what-is-a-fly-rod-a-comprehensive-guide-for-outdoor-enthusiasts 
+What is a fly rod. Battlbox.com. (n.d.-b). https://www.battlbox.com/blogs/fishing/what-is-a-fly-rod-a-comprehensive-guide-for-outdoor-enthusiasts [[fly-rods]]
 
-What is a casting rod? A comprehensive guide for anglers. Battlbox.com. (n.d.-a). https://www.battlbox.com/blogs/fishing/what-is-a-casting-rod-a-comprehensive-guide-for-anglers 
+What is a casting rod? A comprehensive guide for anglers. Battlbox.com. (n.d.-a). https://www.battlbox.com/blogs/fishing/what-is-a-casting-rod-a-comprehensive-guide-for-anglers [[baitcasting-rods]]
 
-Surfcasting Republic. (2024, October 9). What are surf rods? an essential guide to surf fishing gear. https://surfcastingrepublic.com/what-are-surf-rods/ 
+Surfcasting Republic. (2024, October 9). What are surf rods? an essential guide to surf fishing gear. https://surfcastingrepublic.com/what-are-surf-rods/ [[surf-rods]]
 
-Albert. (2026, April 7). Different types of fishing line explained for 2026. FishingBooker Blog. https://fishingbooker.com/blog/different-types-of-fishing-line-explained/ 
+Albert. (2026, April 7). Different types of fishing line explained for 2026. FishingBooker Blog. https://fishingbooker.com/blog/different-types-of-fishing-line-explained/ [[fishing-line/index.md]]
 
-Abel, R. (2026, July 24). History of fishing lures: From feathers to soft plastics. Family Fishin. https://familyfishin.com/history-of-fishing-lures/ 
+Abel, R. (2026, July 24). History of fishing lures: From feathers to soft plastics. Family Fishin. https://familyfishin.com/history-of-fishing-lures/ [[artificial-lures]]
 
-The 10 types of fishing weights: How and when to use them. Tackle Village. (2024b, April 17). https://tacklevillage.com/types-of-fishing-weights/ 
+The 10 types of fishing weights: How and when to use them. Tackle Village. (2024b, April 17). https://tacklevillage.com/types-of-fishing-weights/ [[weights]]
 
-Stenstrom, J. (2026, September 29). The ultimate fishing bobber guide: How to choose The Right Float & Catch More Fish. CAST and SPEAR. https://castandspear.com/fishing-bobbers-floats/ 
+Stenstrom, J. (2026, September 29). The ultimate fishing bobber guide: How to choose The Right Float & Catch More Fish. CAST and SPEAR. https://castandspear.com/fishing-bobbers-floats/ [[floats-and-bobbers]]
 
-Young, A. (2024, August 5). 12 tackle Box Essentials (Full List + explanations!) • panfish nation. Panfish Nation. https://panfishnation.com/12-tackle-box-essentials/ 
+Young, A. (2024, August 5). 12 tackle Box Essentials (Full List + explanations!) • panfish nation. Panfish Nation. https://panfishnation.com/12-tackle-box-essentials/ [[beads-and-other-tackle]]
