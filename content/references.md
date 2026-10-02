@@ -8,7 +8,7 @@ Losee, C. (2026, September 1). _Fly Lines 101: Types, Tapers & How to choose (Be
 
 Nadim, D. (2026, September 28). _Fishing reel types explained: Spinning, Baitcaster, Spincast & More!_. CAST and SPEAR. https://castandspear.com/types-of-fishing-reels/ [[reels/index.md]]
 
-_The 10 types of fishing lures (and how to use them all)_. Tackle Village. (2024, April 17). https://tacklevillage.com/types-of-fishing-lures/#jigs [artificial-baits](artifcial-baits.md)
+_The 10 types of fishing lures (and how to use them all)_. Tackle Village. (2024, April 17). https://tacklevillage.com/types-of-fishing-lures/#jigs  [[artificial-baits]]
 
 Zubair, M. (2025, April 1). What is a spinning rod? A comprehensive beginner’s guide. spinningpole.com. https://spinningpole.com/what-is-a-spinning-rod/ [[spinning-rods]]
 
