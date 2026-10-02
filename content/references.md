@@ -25,3 +25,7 @@ Albert. (2026, April 7). Different types of fishing line explained for 2026. Fis
 Abel, R. (2026, July 24). History of fishing lures: From feathers to soft plastics. Family Fishin. https://familyfishin.com/history-of-fishing-lures/ 
 
 The 10 types of fishing weights: How and when to use them. Tackle Village. (2024b, April 17). https://tacklevillage.com/types-of-fishing-weights/ 
+
+Stenstrom, J. (2026, September 29). The ultimate fishing bobber guide: How to choose The Right Float & Catch More Fish. CAST and SPEAR. https://castandspear.com/fishing-bobbers-floats/ 
+
+Young, A. (2024, August 5). 12 tackle Box Essentials (Full List + explanations!) • panfish nation. Panfish Nation. https://panfishnation.com/12-tackle-box-essentials/ 
