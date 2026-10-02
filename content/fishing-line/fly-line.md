@@ -6,7 +6,7 @@ date: 2026-10-2
 
 ### What is Fly Line?
 
-Fly line is quite an outlier within the several different [[index.md|line types]]. Instead of the line being virtually weightless and needing to put [[../ on; fly line is a weighted line that carries the fly, and eliminates the need for extra weight. It is used only on [[../rods/fly-rods.md|fly rods]] and [[../reels/fly-reels.md|reels]].
+Fly line is quite an outlier within the several different [[index.md|line types]]. Instead of the line being virtually weightless and needing to put [weight](weights.md) on; fly line is a weighted line that carries the fly, and eliminates the need for extra weight. It is used only on [[../rods/fly-rods.md|fly rods]] and [[../reels/fly-reels.md|reels]].
 
 >**A fly line is the weighted line that carries your fly to the target and it replaces the lure weight used in conventional fishing.** The taper, weight, and density of that line determine how far you cast, how delicately you can present your fly, and event what depth you fish. Losee, C. (2026, September 1). _Fly Lines 101: Types, Tapers & How to choose (Beginner’s guide)_. The Fly Fishing Basics. https://theflyfishingbasics.com/fly-lines-101/#google_vignette
 
@@ -29,3 +29,5 @@ While there are a lot of different types of fly line, there are really only thre
 - **Sink-Tip Fly Lines**: This is a combination of the sinking and floating lines. The tip, or first 8'-16' sinks, and the rest floats on top. Sink-tip is excellent for rivers or the need for further casts.
 
 ![Man holding fly fishing rod with yellow fly line](https://intoflyfishing.com/wp-content/uploads/2020/07/Best-7wt-fly-lines-Featured-Image-1024x683.jpg)
+
+[References](references.md)
