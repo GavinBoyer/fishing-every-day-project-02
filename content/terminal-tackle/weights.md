@@ -19,6 +19,8 @@ Weights and the amount of weight on your [line](fishing-line/index.md) plays a m
 - **Drop-Shot Sinkers**: These are small egg shapes sinkers with a loop at the top for your line. They are easy to remove and dont require deconstruction of your entire rig. They sink very quickly and are usually rigged ==above== the hook.
 - **Nail Weights**: These are the outliers of all the weights. Instead of tying these onto your line, you simply insert them into soft plastics. These are extremely versatile and can make your plastics much more realistic.
 
+![Different fishing weights](https://www.tetrahook.com/wp-content/uploads/2019/08/different-types-of-fishing-sinkers.jpg)
+
 ### When to Use
 
 While each weight has its specific purpose, you can really use them interchangably. Especially egg sinkers, bullet weights, and drop shots. Weights tend to range in price and can get pretty expensive since the majority are made from lead.

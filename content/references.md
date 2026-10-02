@@ -10,3 +10,18 @@ Nadim, D. (2026, September 28). _Fishing reel types explained: Spinning, Baitcas
 
 _The 10 types of fishing lures (and how to use them all)_. Tackle Village. (2024, April 17). https://tacklevillage.com/types-of-fishing-lures/#jigs
 
+Zubair, M. (2025, April 1). What is a spinning rod? A comprehensive beginner’s guide. spinningpole.com. https://spinningpole.com/what-is-a-spinning-rod/ 
+
+What is a spincast rod and why you need One. Battlbox.com. (n.d.-c). https://www.battlbox.com/blogs/fishing/what-is-a-spincast-rod-a-comprehensive-guide-for-fishing-enthusiasts 
+
+What is a fly rod. Battlbox.com. (n.d.-b). https://www.battlbox.com/blogs/fishing/what-is-a-fly-rod-a-comprehensive-guide-for-outdoor-enthusiasts 
+
+What is a casting rod? A comprehensive guide for anglers. Battlbox.com. (n.d.-a). https://www.battlbox.com/blogs/fishing/what-is-a-casting-rod-a-comprehensive-guide-for-anglers 
+
+Surfcasting Republic. (2024, October 9). What are surf rods? an essential guide to surf fishing gear. https://surfcastingrepublic.com/what-are-surf-rods/ 
+
+Albert. (2026, April 7). Different types of fishing line explained for 2026. FishingBooker Blog. https://fishingbooker.com/blog/different-types-of-fishing-line-explained/ 
+
+Abel, R. (2026, July 24). History of fishing lures: From feathers to soft plastics. Family Fishin. https://familyfishin.com/history-of-fishing-lures/ 
+
+The 10 types of fishing weights: How and when to use them. Tackle Village. (2024b, April 17). https://tacklevillage.com/types-of-fishing-weights/ 
